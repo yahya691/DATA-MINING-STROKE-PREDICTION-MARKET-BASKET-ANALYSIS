@@ -1,0 +1,7 @@
+# Force light theme so labels stay dark on our light page background
+[theme]
+base = "light"
+primaryColor = "#1e40af"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f5f9"
+textColor = "#0f172a"
