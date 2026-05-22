@@ -6,12 +6,10 @@ This project presents an end-to-end data mining solution developed in Python, fe
 
 This terminal project addresses two distinct data mining tasks:
 
-1. 
-**Stroke Prediction**: Building a classifier pipeline to detect stroke risk using the Healthcare Stroke Dataset.
+**1.Stroke Prediction**: Building a classifier pipeline to detect stroke risk using the Healthcare Stroke Dataset.
 
 
-2. 
-**Market Basket Analysis**: Uncovering purchasing patterns in the Groceries dataset using association rule mining.
+**2.Market Basket Analysis**: Uncovering purchasing patterns in the Groceries dataset using association rule mining.
 
 
 
